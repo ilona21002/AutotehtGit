@@ -19,7 +19,7 @@ public class Git {
 		auto2.merkki ="BMW";
 		auto2.malli = "S5";
 		auto2.bensanMaara = 5;
-		auto2.tankkaus = 10;
+		auto2.tankkaus = 20;
 		auto2.kiihdyta();
 		
 		auto2.naytaTiedot();
