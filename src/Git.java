@@ -8,7 +8,7 @@ public class Git {
 		
 		auto1.merkki = "Citroen";
 		auto1.malli = "C4";
-		auto1.bensanMaara = 10;
+		auto1.bensanMaara = 15;
 		auto1.tankkaus = 5;
 		auto1.jarruta();
 		
